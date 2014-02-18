@@ -5,5 +5,5 @@ It works with Linux style full path.
 It outputs file that contains list of files that are dissimilar.
 
 USAGE
-python filecomparator.py <inputfile1> <inputfile2> <outputfile>
+python filecomparator.py inputfile1 inputfile2 outputfile
 
