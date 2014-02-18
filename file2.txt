@@ -1,0 +1,8 @@
+/home/bin/rr.txt
+/home/b/rr.txt
+/home/cbin/gg.ex
+/home/avi/gg.ex
+/home/bingo/1.txt
+/etc/fstab33333
+/home/df
+/hhhhhh
